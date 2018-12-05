@@ -22,6 +22,7 @@
 		<Item Name="Code" Type="Folder" URL="../Code">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
+		<Item Name="BurstRead.vi" Type="VI" URL="../BurstRead.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
